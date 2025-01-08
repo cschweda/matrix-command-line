@@ -2,12 +2,6 @@
 
 A bash script that creates a Matrix-style digital rain effect in your terminal.
 
-## Prerequisites
-
-- Bash shell
-- Standard terminal emulator with color support
-- `tput` command (typically part of `ncurses` package)
-
 ## Installation
 
 1. Clone or download the script:
